@@ -50,7 +50,7 @@ It is an ideal beginner-friendly project to practice **Python basics**, **random
 ---
 
 ## 🎮 Gameplay Preview
-What would you like to deposit? $100
+What would you like to deposit? $100 
 Enter the number of lines to bet on (1-3)? 2
 What would you like to bet on each line? $5
 You are betting $5 on 2 lines. Total bet is equal to: $10
